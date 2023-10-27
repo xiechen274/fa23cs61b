@@ -1,6 +1,7 @@
 package HW0;
 
 public class quadrant {
+
     static int quadrant(double a, double b) {
         int ret;
         if (a < 0 && b > 0) {
